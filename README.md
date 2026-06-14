@@ -98,6 +98,7 @@ https://api.internal
 ---
 
 ## Project Structure
+```
 IronNet/
 ├── core/
 │ ├── gateway/
@@ -112,8 +113,7 @@ IronNet/
 │ ├── vpn/
 │ └── nginx/
 └── docs/
-
-
+```
 
 ---
 
