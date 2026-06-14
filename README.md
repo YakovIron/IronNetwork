@@ -40,6 +40,7 @@ Think of it as a personal internal cloud — isolated, controlled, and fully und
 ---
 
 ## Architecture
+```
   [ Client Devices ]
             │
             ▼
@@ -52,8 +53,7 @@ Think of it as a personal internal cloud — isolated, controlled, and fully und
     ▼     ▼       ▼       ▼
   App 1 App 2 App 3 Internal APIs
 
-
-
+```
   
 ![Network Diagram](./assets/network-diagram.png)
 
